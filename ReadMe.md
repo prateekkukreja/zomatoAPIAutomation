@@ -1,4 +1,4 @@
-# UI Wingify
+# zomatoAPIAutomation setup
 zomatoAPIAutomation covers Rest API's automation framework and sample tests to enable test engineers to write test cases by annotating @Test (TestNG library function).
 
 
